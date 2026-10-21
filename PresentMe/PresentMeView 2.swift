@@ -16,10 +16,10 @@ struct PresentMeView: View {
         List{
             //UI:buttons etc
             VStack{
-                Image(.profile)
+                Image(.profile2)
                     .resizable()
                     .frame(width:120,height:120)
-                Text("Khalid , \(23)")
+                Text("Fatimah , \(23)")
                     .font(.title)
                     .fontWeight(.semibold)
                     
