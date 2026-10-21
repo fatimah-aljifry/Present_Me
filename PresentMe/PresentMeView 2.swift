@@ -19,7 +19,7 @@ struct PresentMeView: View {
                 Image(.profile)
                     .resizable()
                     .frame(width:120,height:120)
-                Text("Khalid , \(23)")
+                Text("Khulud , \(23)")
                     .font(.title)
                     .fontWeight(.semibold)
                     
